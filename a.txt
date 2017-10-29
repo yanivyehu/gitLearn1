@@ -1,4 +1,4 @@
 hello-world
 ---- added in github 1 -----
----- added in local repo | add in github3 ----
+---- added in local repo ---
 ---- added in github 2 -----
